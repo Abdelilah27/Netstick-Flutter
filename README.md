@@ -5,7 +5,7 @@ Made With Flutter.
 # Screenshot 
 
 ![image](https://user-images.githubusercontent.com/71185753/154867246-70b178f7-9356-4d5e-9fc0-9e5ee0b8bdca.png)
-<img src="https://user-images.githubusercontent.com/71185753/154867246-70b178f7-9356-4d5e-9fc0-9e5ee0b8bdca.png" width="48">
+<img src="https://user-images.githubusercontent.com/71185753/154867246-70b178f7-9356-4d5e-9fc0-9e5ee0b8bdca.png" width="100">
 
 ![image](https://user-images.githubusercontent.com/71185753/154867251-49b51636-e743-4472-b2aa-2aaffd9a61af.png)
 
